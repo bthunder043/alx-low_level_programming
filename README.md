@@ -1,1 +1,1 @@
-0-Write a script that runs a C file through the preprocessor and save the result into another file.
+This repository contains all the files and folders for the ALX low level language projects
