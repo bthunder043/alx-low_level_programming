@@ -6,7 +6,7 @@
  */
 void print_alphabet(void)
 {
-	chat alpha;
+	char alpha;
 
 	for (alpha = 'a'; alpha <= 'z'; alpha++)
 	{
