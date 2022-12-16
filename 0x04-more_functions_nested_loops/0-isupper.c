@@ -5,7 +5,7 @@
  * @c: input character.
  * Return: 1 if it is an uppercase character, 0 in the other case.
  */
-int -isupper(int c)
+int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
 	{
