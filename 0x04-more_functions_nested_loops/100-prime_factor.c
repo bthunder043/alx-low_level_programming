@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  * main - entry line
  * @void: no argument
@@ -9,7 +9,6 @@ int main(void)
 	long int i, n;
 
 	i = 612852475143;
-
 	for (n = 2; n <= i; n++)
 	{
 		if (i % n == 0)
