@@ -3,8 +3,7 @@
 /**
  * main - program that prints numbers from 1 to 100
  * but for multiples of 3 prints fizz instead of
- * the number and for multiples of 5 prints
- * fizz buzz
+ * the number and for multiples of 5 prints buzz
  * Return: always 0
  */
 int main(void)
@@ -34,7 +33,7 @@ int main(void)
 			printf(" %d", x);
 		}
 	}
-	printf('\n');
+	printf("\n");
 
 	return (0);
 }
